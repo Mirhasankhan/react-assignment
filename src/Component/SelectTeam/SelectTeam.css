@@ -1,0 +1,9 @@
+.selectTeam-container{
+    display: flex;
+}
+.team-container{
+    width: 60%;
+    border-right: 1px solid blue;
+    margin-right: 20px;
+    margin-left: 20px;
+}
